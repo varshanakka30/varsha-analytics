@@ -1,0 +1,7 @@
+name = input("Enter patient name: ")
+print("Hi, " + name)
+
+energy = input("Enter kWh: ")
+energy = float(energy)
+
+print("Energy:", energy)
